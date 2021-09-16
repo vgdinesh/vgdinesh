@@ -1,34 +1,4 @@
-
-
-
-
-<!--
-
-
-### Hi there 👋, I'm Dinesh!
-
-#### Pen Tester, Ethical Hacker, Learner.
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: Python | Web Application Security | Network Security | Source Code Auditing
-
-- 🔭 I’m currently working on Ozone Cyber Security 
-
-- 🌱 I’m currently learning New Hacking Methods 
-
-- 👯 I’m looking to collaborate on Security Researchers 
-
-- 💬 Ask me about Cyber Security 
-
-- 📫 How to reach me: Ping me on Social Media 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgdinesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dineshvgofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dineshvgofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dineshvgofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dineshvgofficia)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vgdinesh)  
-
-  -->
- ### Hi there 👋, I'm Dinesh
+### Hi there 👋, I'm Dinesh
 
 #### Pen Tester, Ethical Hacker, Learner.
 
@@ -52,7 +22,7 @@ Skills: Python | Web Application Security | Network Security | Source Code Audit
 
 - 📫 How to reach me: Ping me on Social Media 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgdinesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dineshvgofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dineshvgofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dineshvgofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dineshvgofficia)  
+![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgdinesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dineshvgofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dineshvgofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dineshvgofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dineshvgofficia)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vgdinesh)  
 
