@@ -2,7 +2,7 @@
 
 
 
-
+<!--
 
 
 ### Hi there 👋, I'm Dinesh!
@@ -27,7 +27,7 @@ Skills: Python | Web Application Security | Network Security | Source Code Audit
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vgdinesh)  
 
-![Profile views](https://gpvc.arturio.dev/vgdinesh)  ### Hi there 👋, I'm Dinesh
+  -->### Hi there 👋, I'm Dinesh
 
 #### Pen Tester, Ethical Hacker, Learner.
 
