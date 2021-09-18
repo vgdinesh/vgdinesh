@@ -16,7 +16,8 @@
 
 - 📫 How to reach me: Ping me on Social Media 
 
-### Profiles: <script src="https://www.hackthebox.eu/badge/67477"></script>
+### Profiles: 
+* [Hack The Box](https://app.hackthebox.eu/profile/67477)
 
 
 ### Ping Me:
