@@ -2,9 +2,9 @@
 
 ### Pen Tester, Ethical Hacker, Learner.
 
-4 yrs of Experience with Penetration Testing to Conduct the 40+ Security Assessments in Different Application Platforms to find 200+ Vulnerabilities and given Valid recommendation to ensure that the Client’s applications are safe.
+Experience with Penetration Testing to Conduct the Security Assessments in Different Application Platforms to find Vulnerabilities and given Valid recommendation to ensure that the Client’s applications are safe.
 
-### Skills: Python | Web Application Security | Network Security | Source Code Auditing
+### Skills: Python | Web Application Security | Network Security | Information Security | Source Code Auditing
 
 - 🔭 I’m currently working on Ozone Cyber Security 
 
@@ -14,15 +14,15 @@
 
 - 💬 Ask me about Cyber Security 
 
-- 📫 How to reach me: Ping me on Social Media 
+- 📫 How to reach me: Ping me on Social Media
 
 ### Profiles: 
 * [Hack The Box](https://app.hackthebox.eu/profile/67477)  
 * [Root-Me.org](https://www.root-me.org/8u5y_833)
 * [Tryhackme](https://tryhackme.com/p/BusyBee)
 * [Pentesterlab](https://pentesterlab.com/profile/0xBusyBee)
-* CTFLearn
-* 
+* [CTFLearn](https://ctflearn.com/user/0xBusyBee)
+* Offensive Security 
 
 
 ### Ping Me:
